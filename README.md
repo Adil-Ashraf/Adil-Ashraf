@@ -74,8 +74,8 @@ Open to full-stack, backend, and frontend work. I don't have a religious attachm
 particular stack — if a team is using something I haven't touched yet, I'd rather learn it
 properly than argue for the thing I already know.
 
-- LinkedIn — [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- Email — your.email@example.com
+- LinkedIn — [linkedin.com/in/your-handle](https://www.linkedin.com/in/adil-ashraf-5b5b581a9/)
+- Email — your.adilashraf4959@gmail.com
 
 <!--
 **Adil-Ashraf/Adil-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
