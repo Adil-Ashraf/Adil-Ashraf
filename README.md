@@ -54,7 +54,6 @@ their income through circumstances outside their control.
 **Devbox AI** — AI system that answers questions against a user's own custom data, with a
 React frontend over a retrieval-backed API.
 
-**Codexa** — [one line: what it does and what you built]
 
 ## Open source
 
@@ -74,20 +73,5 @@ Open to full-stack, backend, and frontend work. I don't have a religious attachm
 particular stack — if a team is using something I haven't touched yet, I'd rather learn it
 properly than argue for the thing I already know.
 
-- LinkedIn — [linkedin.com/in/your-handle](https://www.linkedin.com/in/adil-ashraf-5b5b581a9/)
-- Email — your.adilashraf4959@gmail.com
-
-<!--
-**Adil-Ashraf/Adil-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn — [linkedin.com/in/adil-ashraf-5b5b581a9](https://www.linkedin.com/in/adil-ashraf-5b5b581a9/)
+- Email — [adilashraf4959@gmail.com](mailto:adilashraf4959@gmail.com)
